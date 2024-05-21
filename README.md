@@ -2,7 +2,7 @@
 SOON ON PLAY STORE
 
 
-![Samsung Galaxy Note 10 Screenshot 1](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/7a6fc897-d468-4f48-ac7e-3e5dab6a509a)
-![Samsung Galaxy Note 10 Screenshot 0](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/adbe8bb2-b743-47ce-a1a0-8ec742265a01)
-![Samsung Galaxy Note 10 Screenshot 3](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/11beabe0-f2cb-4acc-9dc4-41de5635643e)
-![Samsung Galaxy Note 10 Screenshot 2](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/bb76778e-c96d-456c-8040-33fc52154320)
+![Samsung Galaxy Note 10 Screenshot 0](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/30a19442-9cc4-4115-954a-fd21480150ef)
+![Samsung Galaxy Note 10 Screenshot 3](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/c157e8b2-7579-48d4-8608-e11ccd28e18c)
+![Samsung Galaxy Note 10 Screenshot 2](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/4bc819b3-cbab-4695-8f6b-228219baa47c)
+![Samsung Galaxy Note 10 Screenshot 1](https://github.com/AesBiarenti/Medicine-Time/assets/90055274/042b0498-d076-4fec-abc4-fbce2334c3e4)
